@@ -1,8 +1,8 @@
+# Python 3.10+ recommended
 --index-url https://download.pytorch.org/whl/cu128
 
 torch==2.7.1
 torchvision==0.22.1
-torchaudio==2.7.1
 
 ftfy==6.3.1
 regex==2024.11.6
