@@ -1,0 +1,12 @@
+--index-url https://download.pytorch.org/whl/cu128
+
+torch==2.7.1
+torchvision==0.22.1
+torchaudio==2.7.1
+
+ftfy==6.3.1
+regex==2024.11.6
+tqdm==4.67.1
+packaging==24.2
+pillow==11.1.0
+numpy==2.2.3

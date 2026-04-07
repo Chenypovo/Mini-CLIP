@@ -1,0 +1,18 @@
+mini_clip/
+  README.md
+  requirements.txt
+  train.py
+  demo.py
+  data/
+    sample_pairs.json
+  checkpoints/
+  src/
+    __init__.py
+    tokenizer.py
+    preprocess.py
+    image_encoder.py
+    text_encoder.py
+    model.py
+    loss.py
+    data.py
+    utils.py
