@@ -14,7 +14,7 @@ It is designed to be easy to read, easy to run, and easy to extend.
 
 ## Tested Environment
 
-- GPU: NVIDIA RTX 5090 32GB x1
+- GPU: NVIDIA RTX 4090 32GB x1
 - Recommended Python: 3.10+
 - Recommended PyTorch stack: CUDA 12.8 wheels (`cu128`)
 
@@ -28,7 +28,7 @@ conda activate mini_clip
 pip install -r requirements.txt
 ```
 
-If you are on an RTX 5090, use the CUDA 12.8 build of PyTorch pinned in `requirements.txt`.
+If you are on an RTX 4090, use the CUDA 12.8 build of PyTorch pinned in `requirements.txt`.
 
 ## Data Preparation
 
