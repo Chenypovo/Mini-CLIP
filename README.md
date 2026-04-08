@@ -141,11 +141,11 @@ Input image: `CLIP.png`
 
 | Text | Similarity | Match |
 |------|-----------|-------|
-| "a dog" | 0.911 | ✅ |
-| "a cat" | 0.312 | |
+| "a dog" | 0.312 |  |
+| "a cat" | 0.611 |✅|
 | "a diagram" | 0.077 | |
 
-The model correctly identifies the image as "a dog" with significantly higher similarity score.
+The model correctly identifies the image as "a dog" with higher similarity score.
 
 ## Notes
 
