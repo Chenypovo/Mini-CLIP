@@ -1,32 +1,25 @@
 data/raw/
-
 data/train.json
 data/val.json
 data/test.json
-
 checkpoints/
 results/
-
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
-
 # model files
 *.pth
 *.pt
 *.ckpt
-
 # local env
 .venv/
 env/
 conda-env/
-
 # logs
 *.log
-
 # OS files
 .DS_Store
 Thumbs.db
-
-
+# Jupyter
+.ipynb_checkpoints/
